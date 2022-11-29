@@ -1,0 +1,12 @@
+<library path="lib/libjsk_rviz_plugins">
+  
+
+  <class name="jsk_rviz_plugin/PolygonArray"
+         type="jsk_rviz_plugins::PolygonArrayDisplay"
+         base_class_type="rviz::Display">
+    <description>
+      Displays for jsk_pcl_msgs/PolygonArray message
+    </description>
+  </class>
+
+</library>
