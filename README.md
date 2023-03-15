@@ -7,9 +7,10 @@ Instructions are for JRL configuration (Ubuntu 18.04 with ROS melodic).
 
 Make sure to first install the following dependancies:
 
-- `jsk_recognition`:
+- `jsk` dependancies:
 ```bash
 sudo apt install ros-melodic-jsk-recognition
+sudo apt install ros-melodic-jsk-hark-msgs 
 ```
 
 - `pointcloud library` version 1.8:
